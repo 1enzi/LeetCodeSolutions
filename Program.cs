@@ -1,4 +1,4 @@
-﻿using LeetCodeSolutions.Models;
+﻿using LeetCodeSolutions.Medium;
 
-var solution = new CountTheNumberOfCompleteComponentsSolution();
+var solution = new MinimumIndexOfAValidSplitSolution();
 solution.Solve();
